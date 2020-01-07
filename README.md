@@ -9,7 +9,8 @@ The input label is in 'hmdb_rgb1.txt' with the format:<br />
 <code>3 2 2</code><br /><br />
 
 The results as shown in Fig. below<br />
-<img width="=200px" src="confusion_matrix.jpg">
+<img width="=100px" src="confusion_matrix.jpg"><br />
+<img width="=100px" src="results.jpg"><br />
 
 
 
